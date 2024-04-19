@@ -24,9 +24,7 @@ header{
     top: 0;
 }
 
-header>.logo>img{
-    width: 15vw;
-}
+
 
 
 
@@ -107,7 +105,7 @@ header .menu{
     }
     header ul{
         position: fixed;
-        top:100px;
+        top:55px;
         right: -100%;
         background: rgba(0,0,0,0.5);
         height: calc(100vh - 100px);
@@ -419,9 +417,4 @@ header .menu{
   .thumbnail>.item{
     display: none;
   }
-
-  
-    header>.logo>img{
-        width: 20vw;
-    }
 }
